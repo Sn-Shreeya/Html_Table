@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body> 
+    <center>
+        <table border="1px" width="500px">
+         <thead>
+             <th>SID</th>
+             <th>NAME</th>
+             <th>BATCH CODE</th>
+             <th colspan="2">COURSES</th>
+        
+         </thead>
+        <tbody align="center">
+             <tr>
+                 <td>101</td>
+                 <td>Manisa</td>
+                 <td>22</td>
+                 <td rowspan="3">Python</td>
+                 <td rowspan="5">HTML</td>
+             </tr>
+             <tr>
+                 <td>102</td>
+                 <td>Soumya</td>
+                 <td>23</td>
+             </tr>
+             <tr>
+                 <td>103</td>
+                 <td>Gitali</td>
+                 <td>24</td>
+             </tr>
+             <tr>
+                 <td>104</td>
+                 <td>Jyoti</td>
+                 <td>25</td>
+                 <td>Java</td>
+             </tr>
+             <tr>
+                 <td>105</td>
+                 <td>Simul</td>
+                 <td>23</td>
+                 <td>Mern</td>
+             </tr>
+         </tbody>
+     </table>
+     </center>
+ </body>
+ </html>
